@@ -6,12 +6,12 @@ export default defineConfig({
 
   // Added Configuration for 
   // Deployment to GitHub Pages
-  site: 'https://30DaysOf.github.io',
-  base: '/astro-starlight-ghpages/',
+  site: 'https://nitya.github.io',
+  base: '/contoso-real-estate-devguide/',
 
   integrations: [
     starlight({
-      title: 'My Docs',
+      title: 'Dev Guide',
       social: {
         github: 'https://github.com/30DaysOf/astro-starlight-ghpages',
       },
